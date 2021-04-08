@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fkdiomande.altdx.services
 
+import com.github.fkdiomande.altdx.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
